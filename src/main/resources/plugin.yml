@@ -1,0 +1,4 @@
+name: Items
+version: 1.0
+main: me.zowpy.items.ItemPlugin
+description: item plugin
